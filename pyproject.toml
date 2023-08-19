@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "tailwatertu-org"
+version = "0.1.0"
+description = ""
+authors = ["Joey Grasso <me@joeygrasso.com>"]
+readme = "README.md"
+packages = [{include = "tailwatertu"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pelican = "^4.8.0"
+markdown = "^3.4.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
