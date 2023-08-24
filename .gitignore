@@ -1,0 +1,2 @@
+# Ignore pelican output dir since it is generated output
+output/
