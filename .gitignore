@@ -2,4 +2,4 @@
 tailwatertu/output/
 
 # Ignore __pycache__/ for pelican
-# tailwatertu/__pycache__/
+tailwatertu/__pycache__/
