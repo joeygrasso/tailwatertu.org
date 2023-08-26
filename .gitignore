@@ -1,2 +1,5 @@
 # Ignore pelican output dir since it is generated output
-output/
+tailwatertu/output/
+
+# Ignore __pycache__/ for pelican
+# tailwatertu/__pycache__/
